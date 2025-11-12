@@ -152,7 +152,7 @@ body {
 .card:hover {
   transform: translateY(-8px);
   background: linear-gradient(120deg, #ffe893, #fcefd8);
-  color: #fffdf9;
+  color: #7b7b7b;
    transform: scale(1.05);
 }
 
